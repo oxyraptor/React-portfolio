@@ -4,7 +4,7 @@ import { Toaster } from "@/components/ui/toaster"
 
 export const metadata: Metadata = {
   title: 'Mandar Jadhav',
-  description: 'portfolio of Mandar Jadhav, an AIML enthusiast,developer,  and 3D artist .',
+  description: 'portfolio of Mandar Jadhav, an AIML enthusiast, developer, and 3D artist .',
 };
 
 export default function RootLayout({
