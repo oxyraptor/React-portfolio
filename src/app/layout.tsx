@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster"
 
 export const metadata: Metadata = {
-  title: 'Mandar Portfolio',
+  title: 'Mandar Jadhav',
   description: 'portfolio of Mandar, an AIML enthusiast,developer,  and 3D artist .',
 };
 
